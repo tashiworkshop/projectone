@@ -1,6 +1,6 @@
 My 1st line of text is HERE
 
-My second line of text
+My second linE of text          
 
 My thIRd line of text
 
